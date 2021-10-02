@@ -24,3 +24,8 @@ body{
 span{
     vertical-align: middle;
 }
+
+.page-footer{
+    background-color: #C59A7A;    ;
+    font-family: 'Varela Round', sans-serif;
+}

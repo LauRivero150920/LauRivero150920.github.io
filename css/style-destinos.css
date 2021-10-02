@@ -780,3 +780,8 @@ span{
 #button{
     background-color: #aac597;
 }
+
+.page-footer{
+    background-color: #C59A7A;    ;
+    font-family: 'Varela Round', sans-serif;
+}
