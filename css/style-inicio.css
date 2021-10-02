@@ -7,7 +7,7 @@ body{
 .sub-title{
     font-weight: bold;
     color: #F19C79;
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -30,11 +30,3 @@ span{
     font-family: 'Varela Round', sans-serif;
 }
 
-label{
-    font-family: 'Varela Round', sans-serif;
-    text-align: left;
-}
-
-#button{
-    background-color: #aac597;
-}
